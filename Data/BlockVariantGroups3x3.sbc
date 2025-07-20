@@ -4,6 +4,7 @@
 		<BlockVariantGroup>
 			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="AgencyB_LettersAZ_Large"/>
 			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_A.dds</Icon>
+			<Icon>Textures\GUI\Icons\Cubes\overlay_3x3.dds</Icon>
 			<DisplayName>DisplayName_AgencyB_LG_Symbol_A</DisplayName>
 			<Description>Description_Letters</Description>
 			<Blocks>
@@ -38,6 +39,7 @@
 		<BlockVariantGroup>
 			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="AgencyB_Numbers1_Large"/>
 			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_0.dds</Icon>
+			<Icon>Textures\GUI\Icons\Cubes\overlay_3x3.dds</Icon>
 			<DisplayName>DisplayName_AgencyB_LG_Symbol_0</DisplayName>
 			<Description>Description_Numbers</Description>
 			<Blocks>
@@ -56,6 +58,7 @@
 		<BlockVariantGroup>
 			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="AgencyB_Symbols_Large"/>
 			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_And.dds</Icon>
+			<Icon>Textures\GUI\Icons\Cubes\overlay_3x3.dds</Icon>
 			<DisplayName>DisplayName_AgencyB_LG_Symbol_And</DisplayName>
 			<Description>Description_Symbols</Description>
 			<Blocks>

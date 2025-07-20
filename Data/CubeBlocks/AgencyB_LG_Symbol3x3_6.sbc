@@ -9,12 +9,14 @@
 			<DisplayName>{LOC:DisplayName_AgencyB_LG_Symbol3x3_6}</DisplayName>
 			<Description>Description_Letters</Description>
 			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_6.dds</Icon>
+			<Icon>Textures\GUI\Icons\Cubes\overlay_3x3.dds</Icon>
 			<CubeSize>Large</CubeSize>
 			<BlockTopology>TriangleMesh</BlockTopology>
 			<Size x="3" y="1" z="3"/>
 			<ModelOffset x="0" y="0" z="0"/>
 			<Model>Models\Cubes\large\AgencyB_LG_Symbol3x3_6.mwm</Model>
 			<Components>
+				<Component Subtype="SteelPlate" Count="30"/>
 				<Component Subtype="SteelPlate" Count="30"/>
 				<Component Subtype="SteelPlate" Count="30"/>
 				<Component Subtype="SteelPlate" Count="30"/>
