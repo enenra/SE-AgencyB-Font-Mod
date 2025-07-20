@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<BlockVariantGroups>
+		<BlockVariantGroup>
+			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="AgencyB_LettersAZ_Large"/>
+			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_A.dds</Icon>
+			<DisplayName>DisplayName_AgencyB_LG_Symbol_A</DisplayName>
+			<Description>Description_Letters</Description>
+			<Blocks>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_A"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_B"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_C"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_D"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_E"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_F"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_G"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_H"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_I"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_J"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_K"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_L"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_M"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_N"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_O"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_P"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Q"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_R"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_S"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_T"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_U"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_V"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_W"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_X"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Y"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Z"/>
+			</Blocks>
+		</BlockVariantGroup>
+		<BlockVariantGroup>
+			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="AgencyB_Numbers1_Large"/>
+			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_0.dds</Icon>
+			<DisplayName>DisplayName_AgencyB_LG_Symbol_0</DisplayName>
+			<Description>Description_Numbers</Description>
+			<Blocks>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_0"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_1"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_2"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_3"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_4"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_5"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_6"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_7"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_8"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_9"/>
+			</Blocks>
+		</BlockVariantGroup>
+		<BlockVariantGroup>
+			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="AgencyB_Symbols_Large"/>
+			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_And.dds</Icon>
+			<DisplayName>DisplayName_AgencyB_LG_Symbol_And</DisplayName>
+			<Description>Description_Symbols</Description>
+			<Blocks>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_And"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Apostrophe"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Colon"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Dot"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_ExclammationMark"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Hyphen"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_QuestionMark"/>
+				<Block Type="MyObjectBuilder_CubeBlock" Subtype="AgencyB_LG_Symbol3x3_Underscore"/>
+			</Blocks>
+		</BlockVariantGroup>
+	</BlockVariantGroups>
+</Definitions>

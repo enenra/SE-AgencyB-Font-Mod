@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CubeBlocks>
+		<Definition>
+			<Id>
+				<TypeId>CubeBlock</TypeId>
+				<SubtypeId>AgencyB_LG_Symbol3x3_U</SubtypeId>
+			</Id>
+			<DisplayName>{LOC:DisplayName_AgencyB_LG_Symbol3x3_U}</DisplayName>
+			<Description>Description_Letters</Description>
+			<Icon>Textures\GUI\Icons\Cubes\AgencyB_LG_Symbol_U.dds</Icon>
+			<CubeSize>Large</CubeSize>
+			<BlockTopology>TriangleMesh</BlockTopology>
+			<Size x="3" y="1" z="3"/>
+			<ModelOffset x="0" y="0" z="0"/>
+			<Model>Models\Cubes\large\AgencyB_LG_Symbol3x3_U.mwm</Model>
+			<Components>
+				<Component Subtype="SteelPlate" Count="30"/>
+				<Component Subtype="SteelPlate" Count="30"/>
+				<Component Subtype="SteelPlate" Count="30"/>
+				<Component Subtype="SteelPlate" Count="10"/>
+			</Components>
+			<CriticalComponent Subtype="SteelPlate" Index="0"/>
+			<MountPoints>
+				<MountPoint Side="Bottom" StartX="0.30" StartY="0.30" EndX="2.70" EndY="2.70" Default="true"/>
+			</MountPoints>
+			<BuildProgressModels>
+				<Model BuildPercentUpperBound="1.00" File="Models\Cubes\large\AgencyB_LG_Symbol3x3_U_BS1.mwm"/>
+			</BuildProgressModels>
+			<BlockPairName>AgencyB_Symbol3x3_U</BlockPairName>
+			<MirroringY>Z</MirroringY>
+			<MirroringZ>Y</MirroringZ>
+			<EdgeType>Light</EdgeType>
+			<BuildTimeSeconds>12</BuildTimeSeconds>
+			<IsAirTight>false</IsAirTight>
+			<IsStandAlone>false</IsStandAlone>
+			<PCU>1</PCU>
+		</Definition>
+	</CubeBlocks>
+</Definitions>
