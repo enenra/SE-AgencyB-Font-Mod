@@ -12,7 +12,7 @@
 			<Icon>Textures\GUI\Icons\Cubes\overlay_3x3.dds</Icon>
 			<CubeSize>Large</CubeSize>
 			<BlockTopology>TriangleMesh</BlockTopology>
-			<Size x="3" y="1" z="3"/>
+			<Size x="2" y="1" z="3"/>
 			<ModelOffset x="0" y="0" z="0"/>
 			<Model>Models\Cubes\large\AgencyB_LG_Symbol3x3_P.mwm</Model>
 			<Components>
@@ -24,7 +24,7 @@
 			</Components>
 			<CriticalComponent Subtype="SteelPlate" Index="0"/>
 			<MountPoints>
-				<MountPoint Side="Bottom" StartX="0.30" StartY="0.30" EndX="2.70" EndY="2.70" Default="true"/>
+				<MountPoint Side="Bottom" StartX="0.00" StartY="0.30" EndX="2.00" EndY="2.70" Default="true"/>
 			</MountPoints>
 			<BuildProgressModels>
 				<Model BuildPercentUpperBound="1.00" File="Models\Cubes\large\AgencyB_LG_Symbol3x3_P_BS1.mwm"/>
